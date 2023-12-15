@@ -1,6 +1,6 @@
 # Greydwarfs Don't Circle
 
-This makes a small change to the behavior of Greydwarfs, Greylings, Greydwarf Brutes, and Greydwarf Shammans. 
+This mod makes a small change to the behavior of Greydwarfs, Greylings, Greydwarf Brutes, and Greydwarf Shammans. 
 
 # Features
 Removes circling behavior from Greydwarfs, Greylings, Greydwarf Brutes, and Greydwarf Shammans
