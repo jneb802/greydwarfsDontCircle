@@ -13,7 +13,7 @@ namespace Greydwarfsdontdircle
     {
         public const string PluginGUID = "com.github.jneb802.Greydwarfsdontdircle";
         public const string PluginName = "Greydwarfs Dont Circle";
-        public const string PluginVersion = "0.0.1";
+        public const string PluginVersion = "1.0.1";
 
         private void Awake()
         {
